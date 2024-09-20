@@ -1,0 +1,131 @@
+info: Fetched all users: 0 records {"timestamp":"2024-09-19T09:52:51.224Z"}
+info: Fetched all users: 0 records {"timestamp":"2024-09-19T09:52:51.399Z"}
+warn: User not found: 1 {"timestamp":"2024-09-19T09:53:11.554Z"}
+info: Fetched all users: 0 records {"timestamp":"2024-09-19T10:03:37.068Z"}
+warn: Validation error: "email" must be a valid email {"timestamp":"2024-09-19T10:14:01.892Z"}
+warn: Validation error: "email" must be a valid email {"timestamp":"2024-09-19T10:14:15.595Z"}
+warn: Validation error: "email" must be a valid email {"timestamp":"2024-09-19T10:15:48.456Z"}
+info: User created: {"id":2,"name":"\"abc\"","email":"\"ahjjjbc@gmail.com\"","imageUrl":null} {"timestamp":"2024-09-19T10:27:33.278Z"}
+info: User created: {"id":3,"name":"\"abc\"","email":"\"ahjjjbc@gmail.com\"","imageUrl":null} {"timestamp":"2024-09-19T10:27:47.748Z"}
+info: User created: {"id":4,"name":"\"abc\"","email":"\"ahjjjbc@gmail.com\"","imageUrl":null} {"timestamp":"2024-09-19T10:27:50.992Z"}
+warn: Validation error: "email" must be a valid email {"timestamp":"2024-09-19T10:28:13.289Z"}
+info: User created: {"id":5,"name":"\"abc\"","email":"\"ahjjddjbc@gmail.com\"","imageUrl":null} {"timestamp":"2024-09-19T10:34:35.679Z"}
+info: User created: {"id":6,"name":"\"abc\"","email":"\"ahjjddjbc@gmail.com\"","imageUrl":null} {"timestamp":"2024-09-19T10:34:48.935Z"}
+info: User created: {"id":7,"name":"\"abc\"","email":"\"ahjjddjbc@gmail.com\"","imageUrl":null} {"timestamp":"2024-09-19T10:35:01.275Z"}
+error: Error creating user: The "path" argument must be of type string or an instance of Buffer or URL. Received undefined {"timestamp":"2024-09-19T10:40:56.713Z"}
+error: Error creating user: The "path" argument must be of type string or an instance of Buffer or URL. Received undefined {"timestamp":"2024-09-19T10:41:17.208Z"}
+error: Error creating user: File path not found {"timestamp":"2024-09-19T10:45:02.049Z"}
+error: Error creating user: The "path" argument must be of type string or an instance of Buffer or URL. Received undefined {"timestamp":"2024-09-19T10:48:08.205Z"}
+error: Error creating user: The "path" argument must be of type string or an instance of Buffer or URL. Received undefined {"timestamp":"2024-09-19T10:49:10.148Z"}
+error: Error creating user: The "path" argument must be of type string or an instance of Buffer or URL. Received undefined {"timestamp":"2024-09-19T10:52:55.478Z"}
+error: Error creating user: The "path" argument must be of type string or an instance of Buffer or URL. Received undefined {"timestamp":"2024-09-19T10:53:09.778Z"}
+info: Files received: {"imageUrl":[{"size":269652,"filepath":"C:\\Users\\info\\AppData\\Local\\Temp\\931d24ba8d4b88f1e38b79300","newFilename":"931d24ba8d4b88f1e38b79300","mimetype":"image/png","mtime":"2024-09-19T10:56:31.044Z","originalFilename":"Screenshot (1).png"}]} {"timestamp":"2024-09-19T10:56:31.046Z"}
+info: File path: undefined, File name: undefined {"timestamp":"2024-09-19T10:56:31.049Z"}
+error: Error creating user: File path is undefined {"timestamp":"2024-09-19T10:56:31.050Z"}
+info: Files received: {"imageUrl":[{"size":269652,"filepath":"C:\\Users\\info\\AppData\\Local\\Temp\\931d24ba8d4b88f1e38b79301","newFilename":"931d24ba8d4b88f1e38b79301","mimetype":"image/png","mtime":"2024-09-19T10:57:06.308Z","originalFilename":"Screenshot (1).png"}]} {"timestamp":"2024-09-19T10:57:06.308Z"}
+info: File path: undefined, File name: undefined {"timestamp":"2024-09-19T10:57:06.309Z"}
+error: Error creating user: File path is undefined {"timestamp":"2024-09-19T10:57:06.310Z"}
+info: Files received: {"imageUrl":[{"size":269652,"filepath":"C:\\Users\\info\\AppData\\Local\\Temp\\f935c1cf9765c0fb1f10bd500","newFilename":"f935c1cf9765c0fb1f10bd500","mimetype":"image/png","mtime":"2024-09-19T11:00:51.707Z","originalFilename":"Screenshot (1).png"}]} {"timestamp":"2024-09-19T11:00:51.708Z"}
+info: File path: undefined, File name: undefined {"timestamp":"2024-09-19T11:00:51.711Z"}
+error: Error creating user: File path is undefined {"timestamp":"2024-09-19T11:00:51.712Z"}
+info: Files received: {"imageUrl":[{"size":269652,"filepath":"C:\\Users\\info\\AppData\\Local\\Temp\\f935c1cf9765c0fb1f10bd501","newFilename":"f935c1cf9765c0fb1f10bd501","mimetype":"image/png","mtime":"2024-09-19T11:01:01.395Z","originalFilename":"Screenshot (1).png"}]} {"timestamp":"2024-09-19T11:01:01.395Z"}
+info: File path: undefined, File name: undefined {"timestamp":"2024-09-19T11:01:01.396Z"}
+error: Error creating user: File path is undefined {"timestamp":"2024-09-19T11:01:01.397Z"}
+info: Fetched all users: 6 records {"timestamp":"2024-09-19T11:02:08.015Z"}
+info: Files received: {"imageUrl":[{"size":269652,"filepath":"C:\\Users\\info\\AppData\\Local\\Temp\\379ad23de65996a6ed127ce00","newFilename":"379ad23de65996a6ed127ce00","mimetype":"image/png","mtime":"2024-09-19T11:04:18.621Z","originalFilename":"Screenshot (1).png"}]} {"timestamp":"2024-09-19T11:04:18.621Z"}
+info: File path: undefined, File name: undefined {"timestamp":"2024-09-19T11:04:18.623Z"}
+error: Error creating user: File path is undefined {"timestamp":"2024-09-19T11:04:18.624Z"}
+info: Files received: {"imageUrl":[{"size":269652,"filepath":"C:\\Users\\info\\AppData\\Local\\Temp\\748e66d15ec9834f46a73f200","newFilename":"748e66d15ec9834f46a73f200","mimetype":"image/png","mtime":"2024-09-19T11:04:57.381Z","originalFilename":"Screenshot (1).png"}]} {"timestamp":"2024-09-19T11:04:57.383Z"}
+info: File path: undefined, File name: undefined {"timestamp":"2024-09-19T11:04:57.386Z"}
+error: Error creating user: File path is undefined {"timestamp":"2024-09-19T11:04:57.387Z"}
+error: Error parsing form data: ENOENT: no such file or directory, open 'C:\Users\info\Desktop\New folder (8)\uploads\invalid-name' {"timestamp":"2024-09-19T11:14:15.843Z"}
+error: Error parsing form data: ENOENT: no such file or directory, open 'C:\Users\info\Desktop\New folder (8)\uploads\invalid-name' {"timestamp":"2024-09-19T12:17:46.743Z"}
+info: Files received: {"imageUrl":[{"size":269652,"filepath":"C:\\Users\\info\\Desktop\\New folder (8)\\uploads\\ca1a38efc2922c7974b870600.png","newFilename":"ca1a38efc2922c7974b870600.png","mimetype":"image/png","mtime":"2024-09-19T12:33:49.973Z","originalFilename":"Screenshot (1).png"}]} {"timestamp":"2024-09-19T12:33:49.974Z"}
+info: File Data: [{"size":269652,"filepath":"C:\\Users\\info\\Desktop\\New folder (8)\\uploads\\ca1a38efc2922c7974b870600.png","newFilename":"ca1a38efc2922c7974b870600.png","mimetype":"image/png","mtime":"2024-09-19T12:33:49.973Z","originalFilename":"Screenshot (1).png"}] {"timestamp":"2024-09-19T12:33:49.978Z"}
+info: File path: undefined, File name: undefined {"timestamp":"2024-09-19T12:33:49.979Z"}
+error: Error creating user: File path is undefined {"timestamp":"2024-09-19T12:33:49.980Z"}
+info: Files received: {"imageUrl":[{"size":269652,"filepath":"C:\\Users\\info\\Desktop\\New folder (8)\\uploads\\ca1a38efc2922c7974b870601.png","newFilename":"ca1a38efc2922c7974b870601.png","mimetype":"image/png","mtime":"2024-09-19T12:34:09.992Z","originalFilename":"Screenshot (1).png"}]} {"timestamp":"2024-09-19T12:34:09.993Z"}
+info: File Data: [{"size":269652,"filepath":"C:\\Users\\info\\Desktop\\New folder (8)\\uploads\\ca1a38efc2922c7974b870601.png","newFilename":"ca1a38efc2922c7974b870601.png","mimetype":"image/png","mtime":"2024-09-19T12:34:09.992Z","originalFilename":"Screenshot (1).png"}] {"timestamp":"2024-09-19T12:34:09.994Z"}
+info: File path: undefined, File name: undefined {"timestamp":"2024-09-19T12:34:09.995Z"}
+error: Error creating user: File path is undefined {"timestamp":"2024-09-19T12:34:09.995Z"}
+info: Fetched all users: 6 records {"timestamp":"2024-09-19T12:34:20.856Z"}
+info: Fetched all users: 6 records {"timestamp":"2024-09-19T12:34:21.030Z"}
+info: Files received: {"imageUrl":[{"size":269652,"filepath":"C:\\Users\\info\\Desktop\\New folder (8)\\uploads\\544e125ac7c3add442a33f300.png","newFilename":"544e125ac7c3add442a33f300.png","mimetype":"image/png","mtime":"2024-09-19T12:35:15.749Z","originalFilename":"Screenshot (1).png"}]} {"timestamp":"2024-09-19T12:35:15.750Z"}
+info: File Data: [{"size":269652,"filepath":"C:\\Users\\info\\Desktop\\New folder (8)\\uploads\\544e125ac7c3add442a33f300.png","newFilename":"544e125ac7c3add442a33f300.png","mimetype":"image/png","mtime":"2024-09-19T12:35:15.749Z","originalFilename":"Screenshot (1).png"}] {"timestamp":"2024-09-19T12:35:15.753Z"}
+info: File path: undefined, File name: undefined {"timestamp":"2024-09-19T12:35:15.753Z"}
+error: Error creating user: File path is undefined {"timestamp":"2024-09-19T12:35:15.753Z"}
+info: Files received: {"imageUrl":[{"size":269652,"filepath":"C:\\Users\\info\\Desktop\\New folder (8)\\uploads\\2c361af547f173351fe895900.png","newFilename":"2c361af547f173351fe895900.png","mimetype":"image/png","mtime":"2024-09-19T12:38:05.611Z","originalFilename":"Screenshot (1).png"}]} {"timestamp":"2024-09-19T12:38:05.612Z"}
+info: File Data: {"size":269652,"filepath":"C:\\Users\\info\\Desktop\\New folder (8)\\uploads\\2c361af547f173351fe895900.png","newFilename":"2c361af547f173351fe895900.png","mimetype":"image/png","mtime":"2024-09-19T12:38:05.611Z","originalFilename":"Screenshot (1).png"} {"timestamp":"2024-09-19T12:38:05.615Z"}
+info: File path: C:\Users\info\Desktop\New folder (8)\uploads\2c361af547f173351fe895900.png, File name: Screenshot (1).png {"timestamp":"2024-09-19T12:38:05.616Z"}
+error: Error creating user: Error uploading file: Region is missing {"timestamp":"2024-09-19T12:38:05.623Z"}
+info: Files received: {"imageUrl":[{"size":269652,"filepath":"C:\\Users\\info\\Desktop\\New folder (8)\\uploads\\68af76371beb98f648b38a100.png","newFilename":"68af76371beb98f648b38a100.png","mimetype":"image/png","mtime":"2024-09-19T12:38:42.906Z","originalFilename":"Screenshot (1).png"}]} {"timestamp":"2024-09-19T12:38:42.907Z"}
+info: File Data: {"size":269652,"filepath":"C:\\Users\\info\\Desktop\\New folder (8)\\uploads\\68af76371beb98f648b38a100.png","newFilename":"68af76371beb98f648b38a100.png","mimetype":"image/png","mtime":"2024-09-19T12:38:42.906Z","originalFilename":"Screenshot (1).png"} {"timestamp":"2024-09-19T12:38:42.910Z"}
+info: File path: C:\Users\info\Desktop\New folder (8)\uploads\68af76371beb98f648b38a100.png, File name: Screenshot (1).png {"timestamp":"2024-09-19T12:38:42.911Z"}
+error: Error creating user: Error uploading file: Region is missing {"timestamp":"2024-09-19T12:38:42.917Z"}
+info: Files received: {"imageUrl":[{"size":269652,"filepath":"C:\\Users\\info\\Desktop\\New folder (8)\\uploads\\68af76371beb98f648b38a101.png","newFilename":"68af76371beb98f648b38a101.png","mimetype":"image/png","mtime":"2024-09-19T12:43:36.989Z","originalFilename":"Screenshot (1).png"}]} {"timestamp":"2024-09-19T12:43:36.989Z"}
+info: File Data: {"size":269652,"filepath":"C:\\Users\\info\\Desktop\\New folder (8)\\uploads\\68af76371beb98f648b38a101.png","newFilename":"68af76371beb98f648b38a101.png","mimetype":"image/png","mtime":"2024-09-19T12:43:36.989Z","originalFilename":"Screenshot (1).png"} {"timestamp":"2024-09-19T12:43:36.991Z"}
+info: File path: C:\Users\info\Desktop\New folder (8)\uploads\68af76371beb98f648b38a101.png, File name: Screenshot (1).png {"timestamp":"2024-09-19T12:43:36.992Z"}
+error: Error creating user: Error uploading file: Region is missing {"timestamp":"2024-09-19T12:43:36.994Z"}
+info: Files received: {"imageUrl":[{"size":269652,"filepath":"C:\\Users\\info\\Desktop\\New folder (8)\\uploads\\68af76371beb98f648b38a102.png","newFilename":"68af76371beb98f648b38a102.png","mimetype":"image/png","mtime":"2024-09-19T12:43:38.987Z","originalFilename":"Screenshot (1).png"}]} {"timestamp":"2024-09-19T12:43:38.987Z"}
+info: File Data: {"size":269652,"filepath":"C:\\Users\\info\\Desktop\\New folder (8)\\uploads\\68af76371beb98f648b38a102.png","newFilename":"68af76371beb98f648b38a102.png","mimetype":"image/png","mtime":"2024-09-19T12:43:38.987Z","originalFilename":"Screenshot (1).png"} {"timestamp":"2024-09-19T12:43:38.989Z"}
+info: File path: C:\Users\info\Desktop\New folder (8)\uploads\68af76371beb98f648b38a102.png, File name: Screenshot (1).png {"timestamp":"2024-09-19T12:43:38.989Z"}
+error: Error creating user: Error uploading file: Region is missing {"timestamp":"2024-09-19T12:43:38.991Z"}
+info: Files received: {"imageUrl":[{"size":269652,"filepath":"C:\\Users\\info\\Desktop\\New folder (8)\\uploads\\1282d95163a1788c4d722cb00.png","newFilename":"1282d95163a1788c4d722cb00.png","mimetype":"image/png","mtime":"2024-09-19T12:51:21.207Z","originalFilename":"Screenshot (1).png"}]} {"timestamp":"2024-09-19T12:51:21.208Z"}
+info: File path: C:\Users\info\Desktop\New folder (8)\uploads\1282d95163a1788c4d722cb00.png, File name: Screenshot (1).png {"timestamp":"2024-09-19T12:51:21.211Z"}
+error: Error creating user: Error uploading file: getaddrinfo ENOTFOUND hsncuexam.s3.eu2.amazonaws.com {"timestamp":"2024-09-19T12:51:21.344Z"}
+info: Files received: {"imageUrl":[{"size":269652,"filepath":"C:\\Users\\info\\Desktop\\New folder (8)\\uploads\\02f3114ab4421a7a422607c00.png","newFilename":"02f3114ab4421a7a422607c00.png","mimetype":"image/png","mtime":"2024-09-19T12:56:29.664Z","originalFilename":"Screenshot (1).png"}]} {"timestamp":"2024-09-19T12:56:29.666Z"}
+info: File path: C:\Users\info\Desktop\New folder (8)\uploads\02f3114ab4421a7a422607c00.png, File name: Screenshot (1).png {"timestamp":"2024-09-19T12:56:29.669Z"}
+info: File uploaded successfully: Screenshot (1).png {"timestamp":"2024-09-19T12:56:31.844Z"}
+info: User created: {"id":8,"name":"ddddhdd","email":"ajjbc@gmail.com","imageUrl":"https://eu2.contabostorage.com/hsncuexam/Screenshot (1).png"} {"timestamp":"2024-09-19T12:56:31.872Z"}
+info: Fetched all users: 7 records {"timestamp":"2024-09-19T13:01:07.445Z"}
+info: Fetched all users: 7 records {"timestamp":"2024-09-19T13:01:24.434Z"}
+info: Fetched all users: 7 records {"timestamp":"2024-09-19T13:01:40.302Z"}
+info: Fetched all users: 7 records {"timestamp":"2024-09-19T13:01:53.781Z"}
+info: Files received: {"imageUrl":[{"size":1214248,"filepath":"C:\\Users\\info\\Desktop\\New folder (8)\\uploads\\02f3114ab4421a7a422607c01.png","newFilename":"02f3114ab4421a7a422607c01.png","mimetype":"image/png","mtime":"2024-09-19T13:02:06.317Z","originalFilename":"Screenshot (7).png"}]} {"timestamp":"2024-09-19T13:02:06.317Z"}
+info: File path: C:\Users\info\Desktop\New folder (8)\uploads\02f3114ab4421a7a422607c01.png, File name: Screenshot (7).png {"timestamp":"2024-09-19T13:02:06.319Z"}
+info: File uploaded successfully: Screenshot (7).png {"timestamp":"2024-09-19T13:02:10.028Z"}
+info: User created: {"id":9,"name":"ddddhdd","email":"ajjhhbc@gmail.com","imageUrl":"https://eu2.contabostorage.com/hsncuexam/Screenshot (7).png"} {"timestamp":"2024-09-19T13:02:10.040Z"}
+info: Files received: {"imageUrl":[{"size":1214248,"filepath":"C:\\Users\\info\\Desktop\\New folder (8)\\uploads\\47471e74e689bfc1733693c00.png","newFilename":"47471e74e689bfc1733693c00.png","mimetype":"image/png","mtime":"2024-09-19T13:03:41.450Z","originalFilename":"Screenshot (7).png"}]} {"timestamp":"2024-09-19T13:03:41.451Z"}
+info: File path: C:\Users\info\Desktop\New folder (8)\uploads\47471e74e689bfc1733693c00.png, File name: Screenshot (7).png {"timestamp":"2024-09-19T13:03:41.454Z"}
+info: File uploaded successfully: Screenshot (7).png {"timestamp":"2024-09-19T13:03:44.576Z"}
+info: User created: {"id":10,"name":"ddddhdd","email":"ajjhhbc@gmail.com","imageUrl":"https://eu2.contabostorage.com/hsncuexam/Screenshot (7).png"} {"timestamp":"2024-09-19T13:03:44.594Z"}
+info: Fetched all users: 9 records {"timestamp":"2024-09-19T13:31:54.582Z"}
+info: Fetched user: {"id":10,"name":"ddddhdd","email":"ajjhhbc@gmail.com","imageUrl":"https://eu2.contabostorage.com/hsncuexam/Screenshot (7).png"} {"timestamp":"2024-09-19T13:43:07.959Z"}
+info: User updated: {"id":10,"name":"ddddhdd","email":"ajjhhbc@gmail.com","imageUrl":"https://eu2.contabostorage.com/hsncuexam/Screenshot (7).png"} {"timestamp":"2024-09-19T13:49:56.501Z"}
+info: User updated: {"id":10,"name":"ddddhdd","email":"ajjhhbc@gmail.com","imageUrl":"https://eu2.contabostorage.com/hsncuexam/Screenshot (7).png"} {"timestamp":"2024-09-19T13:50:05.054Z"}
+info: User updated: {"id":10,"name":"ddddhdd","email":"ajjhhbc@gmail.com","imageUrl":"https://eu2.contabostorage.com/hsncuexam/Screenshot (7).png"} {"timestamp":"2024-09-19T13:50:14.176Z"}
+info: User updated: {"id":10,"name":"ddddhdd","email":"ajjhhbc@gmail.com","imageUrl":"https://eu2.contabostorage.com/hsncuexam/Screenshot (7).png"} {"timestamp":"2024-09-19T13:50:33.963Z"}
+info: User updated: {"id":10,"name":"ddddhdd","email":"ajjhhbc@gmail.com","imageUrl":"https://eu2.contabostorage.com/hsncuexam/Screenshot (7).png"} {"timestamp":"2024-09-19T13:50:52.457Z"}
+info: Fetched user: {"id":10,"name":"ddddhdd","email":"ajjhhbc@gmail.com","imageUrl":"https://eu2.contabostorage.com/hsncuexam/Screenshot (7).png"} {"timestamp":"2024-09-19T13:50:58.762Z"}
+info: User updated: {"id":10,"name":"ddddhdd","email":"ajjhhbc@gmail.com","imageUrl":"https://eu2.contabostorage.com/hsncuexam/Screenshot (7).png"} {"timestamp":"2024-09-19T13:52:40.556Z"}
+info: User updated: {"id":10,"name":"ddddhdd","email":"ajjhhbc@gmail.com","imageUrl":"https://eu2.contabostorage.com/hsncuexam/Screenshot (7).png"} {"timestamp":"2024-09-19T13:56:16.106Z"}
+info: User updated: {"id":10,"name":"ddddhdd","email":"ajjhhbc@gmail.com","imageUrl":"https://eu2.contabostorage.com/hsncuexam/Screenshot (7).png"} {"timestamp":"2024-09-19T13:56:38.158Z"}
+info: User updated: {"id":10,"name":"ddddhdd","email":"ajjhhbc@gmail.com","imageUrl":"https://eu2.contabostorage.com/hsncuexam/Screenshot (7).png"} {"timestamp":"2024-09-19T13:56:45.632Z"}
+info: User updated: {"id":10,"name":"ddddhdd","email":"ajjhhbc@gmail.com","imageUrl":"https://eu2.contabostorage.com/hsncuexam/Screenshot (7).png"} {"timestamp":"2024-09-19T13:57:03.849Z"}
+info: Fetched user: {"id":10,"name":"ddddhdd","email":"ajjhhbc@gmail.com","imageUrl":"https://eu2.contabostorage.com/hsncuexam/Screenshot (7).png"} {"timestamp":"2024-09-20T05:58:23.032Z"}
+info: Fetched user: {"id":10,"name":"ddddhdd","email":"ajjhhbc@gmail.com","imageUrl":"https://eu2.contabostorage.com/hsncuexam/Screenshot (7).png"} {"timestamp":"2024-09-20T05:59:07.397Z"}
+info: User updated: {"id":10,"name":"ddddhdd","email":"ajjhhbc@gmail.com","imageUrl":"https://eu2.contabostorage.com/hsncuexam/Screenshot (7).png"} {"timestamp":"2024-09-20T05:59:14.889Z"}
+info: User updated: {"id":10,"name":"ddddhdd","email":"ajjhhbc@gmail.com","imageUrl":"https://eu2.contabostorage.com/hsncuexam/Screenshot (7).png"} {"timestamp":"2024-09-20T05:59:17.991Z"}
+error: Error parsing form data: no parser found {"timestamp":"2024-09-20T06:00:19.672Z"}
+error: Error parsing form data: no parser found {"timestamp":"2024-09-20T06:00:36.907Z"}
+info: User updated: {"id":10,"name":"ddddhdd","email":"ajjhhbc@gmail.com","imageUrl":"https://eu2.contabostorage.com/hsncuexam/Screenshot (7).png"} {"timestamp":"2024-09-20T06:00:57.313Z"}
+info: User deleted: 10 {"timestamp":"2024-09-20T06:01:29.906Z"}
+warn: User not found: 10 {"timestamp":"2024-09-20T06:01:44.591Z"}
+info: Fetched user: {"id":9,"name":"ddddhdd","email":"ajjhhbc@gmail.com","imageUrl":"https://eu2.contabostorage.com/hsncuexam/Screenshot (7).png"} {"timestamp":"2024-09-20T06:02:08.180Z"}
+info: User updated: {"id":9,"name":"\"aaaaaaaa\"","email":"ajjhhbc@gmail.com","imageUrl":"https://eu2.contabostorage.com/hsncuexam/Screenshot (7).png"} {"timestamp":"2024-09-20T06:02:52.519Z"}
+info: User updated: {"id":9,"name":"\"bbbbbbbbb\"","email":"ajjhhbc@gmail.com","imageUrl":"https://eu2.contabostorage.com/hsncuexam/Screenshot (7).png"} {"timestamp":"2024-09-20T06:04:37.077Z"}
+info: User updated: {"id":9,"name":"\"bbbbbbbbbbbbbbbbb\"","email":"ajjhhbc@gmail.com","imageUrl":"https://eu2.contabostorage.com/hsncuexam/Screenshot (7).png"} {"timestamp":"2024-09-20T06:04:47.424Z"}
+info: User updated: {"id":9,"name":"bbbbbbbbbbb","email":"ajjhhbc@gmail.com","imageUrl":"https://eu2.contabostorage.com/hsncuexam/Screenshot (7).png"} {"timestamp":"2024-09-20T06:05:23.373Z"}
+info: User updated: {"id":9,"name":"bbbbbbbbbbb","email":"aaaaaaa@gmail.com","imageUrl":"https://eu2.contabostorage.com/hsncuexam/Screenshot (7).png"} {"timestamp":"2024-09-20T06:05:39.987Z"}
+info: Fetched user: {"id":9,"name":"bbbbbbbbbbb","email":"aaaaaaa@gmail.com","imageUrl":"https://eu2.contabostorage.com/hsncuexam/Screenshot (7).png"} {"timestamp":"2024-09-20T06:06:58.411Z"}
+info: User updated: {"id":9,"name":"bbbbbbbbbbb","email":"aaaaaaa@gmail.com","imageUrl":"https://eu2.contabostorage.com/hsncuexam/Screenshot (7).png"} {"timestamp":"2024-09-20T06:07:31.122Z"}
+info: Fetched user: {"id":9,"name":"bbbbbbbbbbb","email":"aaaaaaa@gmail.com","imageUrl":"https://eu2.contabostorage.com/hsncuexam/Screenshot (7).png"} {"timestamp":"2024-09-20T06:08:01.951Z"}
+error: Error parsing form data: no parser found {"timestamp":"2024-09-20T06:10:23.059Z"}
+info: User updated: {"id":9,"name":"bbbbbbbbbbb","email":"aaaaaaa@gmail.com","imageUrl":"https://eu2.contabostorage.com/hsncuexam/Screenshot (7).png"} {"timestamp":"2024-09-20T06:11:27.657Z"}
+info: Fetched user: {"id":9,"name":"bbbbbbbbbbb","email":"aaaaaaa@gmail.com","imageUrl":"https://eu2.contabostorage.com/hsncuexam/Screenshot (7).png"} {"timestamp":"2024-09-20T06:11:34.131Z"}
+info: Fetched user: {"id":9,"name":"bbbbbbbbbbb","email":"aaaaaaa@gmail.com","imageUrl":"https://eu2.contabostorage.com/hsncuexam/Screenshot (7).png"} {"timestamp":"2024-09-20T06:11:52.809Z"}
+info: Fetched user: {"id":9,"name":"bbbbbbbbbbb","email":"aaaaaaa@gmail.com","imageUrl":"https://eu2.contabostorage.com/hsncuexam/Screenshot (7).png"} {"timestamp":"2024-09-20T06:11:55.098Z"}
+info: File path: C:\Users\info\Desktop\New folder (8)\uploads\b74336650c242d2c124081102.png, File name: Screenshot (56).png {"timestamp":"2024-09-20T06:12:02.631Z"}
+info: File uploaded successfully: Screenshot (56).png {"timestamp":"2024-09-20T06:12:08.332Z"}
+info: User updated: {"id":9,"name":"bbbbbbbbbbb","email":"aaaaaaa@gmail.com","imageUrl":"https://eu2.contabostorage.com/hsncuexam/Screenshot (56).png"} {"timestamp":"2024-09-20T06:12:08.340Z"}
+info: Fetched user: {"id":9,"name":"bbbbbbbbbbb","email":"aaaaaaa@gmail.com","imageUrl":"https://eu2.contabostorage.com/hsncuexam/Screenshot (56).png"} {"timestamp":"2024-09-20T06:12:17.965Z"}

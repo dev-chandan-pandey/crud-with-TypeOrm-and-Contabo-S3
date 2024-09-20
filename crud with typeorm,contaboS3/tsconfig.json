@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+      "target": "ESNext",
+      "module": "commonjs",
+      "strict": true,
+      "strictPropertyInitialization": true, // Keep this true if you want the compiler to enforce initializers
+      "emitDecoratorMetadata": true, // Required for TypeORM
+      "experimentalDecorators": true, // Required for TypeORM
+      "esModuleInterop": true,
+      "skipLibCheck": true,
+      "forceConsistentCasingInFileNames": true
+    }
+  }
+  
